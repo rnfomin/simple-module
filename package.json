@@ -14,7 +14,7 @@
   "homepage": "https://github.com/mycolorway/simple-module",
   "main": "lib/module.js",
   "dependencies": {
-    "jquery": "2.x"
+    "jquery": "3.x"
   },
   "devDependencies": {
     "grunt": "0.x",
